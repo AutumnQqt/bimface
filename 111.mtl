@@ -1,5 +1,5 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
-# ´´½¨µÄÎÄ¼ş:22.12.2020 10:56:39
+# åˆ›å»ºçš„æ–‡ä»¶:22.12.2020 10:56:39
 
 newmtl 07___Default
 	Ns 10.0000
@@ -34,5 +34,5 @@ newmtl 08___Default
 	Kd 0.2314 0.2314 0.2314
 	Ks 0.0000 0.0000 0.0000
 	Ke 0.0000 0.0000 0.0000
-	map_Ka D:\ÏîÄ¿ÎÄ¼ş\¼¯×°ÏäÔËÎ¬Ä£ĞÍ-20200728\20201209\1.png
-	map_Kd D:\ÏîÄ¿ÎÄ¼ş\¼¯×°ÏäÔËÎ¬Ä£ĞÍ-20200728\20201209\1.png
+	map_Ka https://autumnqqt.github.io/bimface/1.png
+	map_Kd https://autumnqqt.github.io/bimface/1.png
